@@ -16,7 +16,7 @@ public class BadCalculator {
          * PROBLEME:
          * 1) Alle Operationen sind in dieser einen Methode "zusammengeklebt".
          * 2) Jede Änderung (z.B. neue Operationen) erfordert das Editieren dieser Klasse.
-         * 3) Verstößt gegen das Single Responsibility Principle.
+         * 3) Verstösst gegen das Single Responsibility Principle.
          */
     }
 }
